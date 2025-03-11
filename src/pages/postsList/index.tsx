@@ -1,5 +1,5 @@
 import {memo, useRef} from "react";
-import {useGetPosts} from "hooks/useGetPosts.js";
+import {usePosts} from "hooks/usePosts.js";
 import List from "pages/postsList/componets/List.js";
 
 
